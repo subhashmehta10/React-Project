@@ -39,7 +39,7 @@
          max-width: 100%; display: block; 
         }
   .container {
-     width: min(100% - 2rem, var(--maxw));
+     width: min(84% - 1rem);
       margin-inline: auto; 
     }
     .btn {
