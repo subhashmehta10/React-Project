@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <cursor/>
+      <Cursor/>
       <Header/>
       <Hero/>
       <Projects/>
