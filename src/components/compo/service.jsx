@@ -23,7 +23,7 @@ const Services = () => {
                     <h2>E-commerce Solution</h2>
                     <h3 style={{color:"blue",fontSize:"20px"}}>Online Store Development</h3>
                     <p>Build powerful e-commerce platforms with secure payment processing, inventory management, and analytics.</p>
-                    <p className="price" id='money'>More Details</p>
+                    <p className="price" id='money' style={{marginTop:"37px"}}>More Details</p>
                 </div>
                 <div className="service-card">
                     <div className="service-icon">⚡</div> {/* Icon for Web Optimization */}
