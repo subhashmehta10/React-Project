@@ -11,7 +11,7 @@ import Experience from "./components/Experience";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-
+// import ChatWidget from "./components/compo/ChatWidget";
 
 
 function App() {
@@ -30,6 +30,7 @@ function App() {
       <About/>
       <Contact/>
       <Footer/>
+      {/* <ChatWidget/> */}
     </>
   );
 }
